@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQLWrapper.API", "GraphQLWrapper.API\GraphQLWrapper.API.csproj", "{2CE57A04-47C2-43FB-8C2C-796C6FBEEBCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockGraphQLApiTest", "MockGraphQLApiTest\MockGraphQLApiTest.csproj", "{CCE9BB8D-5AFF-4C8F-9FD9-795F6AE4492F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CE57A04-47C2-43FB-8C2C-796C6FBEEBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE57A04-47C2-43FB-8C2C-796C6FBEEBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE57A04-47C2-43FB-8C2C-796C6FBEEBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE57A04-47C2-43FB-8C2C-796C6FBEEBCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE9BB8D-5AFF-4C8F-9FD9-795F6AE4492F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE9BB8D-5AFF-4C8F-9FD9-795F6AE4492F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE9BB8D-5AFF-4C8F-9FD9-795F6AE4492F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE9BB8D-5AFF-4C8F-9FD9-795F6AE4492F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5A965D4-0374-42D2-8253-0B436BBC703D}
+	EndGlobalSection
+EndGlobal
